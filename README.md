@@ -69,13 +69,3 @@
 | [MongoDB Atlas](https://www.mongodb.com/atlas/database)        | A free cloud service to store MongoDB collections                                                                                        |
 | [AWS S3 Storage Bucket](https://aws.amazon.com/s3/)            | AWS services that provides an object storage service offering industry-leading scalability, data availability, security, and performance |
 
-
-## Potential Improvements
-
-- Refresh Token for better User experiences
-- Use Elastic Search for product search
-- User Authentication using Google / Facebook / OAuth
-- Track Visitors & Analytics
-- Improve SEO
-- Cypress Test
-- Jest Unit Test
